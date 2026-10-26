@@ -1,0 +1,3 @@
+Vision Based Customer Behaviour Analysis System
+
+It uses Computer Vision (CV), Artificial Intelligence (AI), and Machine Learning (ML) to analyze customer behaviour in retail stores or online shopping applications.
